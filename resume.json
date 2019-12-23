@@ -1,0 +1,46 @@
+{
+  "Education": [
+    "2016-2017  Class XII CBSE  Mayur Public School               90.0%",
+    "2018-2022  B.Tech  in  Indian Institute of Technology Delhi  7.6/10 "
+  ],
+
+  "Relevant Courses": [
+     "Data Structure and Algorithms", "Machine Learning(Andrew Ng)", "Probability And Stochastic Processes","Linear Algebra and Differential Equations", "Calculus", "Discrete Mathematical Structures","Digital Logic and System Design","Programming Languages", "Computer Architecture","Design Practices in Computer Science"
+  ],
+
+  "Scholastic Achievements": [
+    "All India Rank 3196 among 1.2 million candidates appearing in Joint Entrance Examination (JEE Advanced-2018)",
+    "Cracked winterofcode 2019 organised by DSC NSEC and developed a web app for Hope Foundation designing a job board."
+  ],
+
+  "Projects": [
+    "Project Scheduler",
+    "Elevator Management System",
+    "Music Generation App",
+    "Whodunit",
+    "Resize",
+    "Recover",
+    "Speller",
+    "Percolation",
+    "Randomized Queues and Deques",
+    "Pattern Recognition",
+    "8-puzzle problem",
+    "Kd-trees",
+    "Linear Regression",
+    "Logistic Regression",
+    "Multi-Class Classification and Neural Networks",
+    "Neural Networks Learning",
+    "Chat Room",
+    "Tic Tac Toe",
+    "Memory Card Game",
+    "Data Structures"
+  ],
+
+  "Tech Stack": ["C", "CPP", "Java", "Python", "PHP", "HTML5", "CSS3", "JavaScript(ES5 & ES6)","Node Js", "Octave", "MATLAB","React Js","Xilinx ISE DEsign Suite","PostgreSQL","Angular Js", "Python", "PostgreSql", "Flask", "Django"],
+  
+  "Contact": ["msmridulsingh@gmail.com", "https://github.com/kuruma99", "+91-9968761588"],
+  
+  "Extra Curricular Activities": [
+   "Vice Captain Of Hostel Badminton team",  "Represented IITD in Sportech'19","Participated in Rendezvous'19 Literary events"
+   ]
+}
